@@ -1,2 +1,2 @@
-# galer-a-adaptable-con-grid
+# galería-adaptable-con-grid
 ejercicio de galería de imagenes responsiva con grid.
